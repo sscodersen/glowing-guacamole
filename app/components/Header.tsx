@@ -12,9 +12,9 @@ export function Header() {
         className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8"
         aria-label="Global"
       >
-        <a href="#" className="-m-1.5 p-1.5">
+        <a href="https://chat.nectarhub.xyz/" className="-m-1.5 p-1.5">
           <span className="h-8 w-auto text-xl font-semibold underline underline-offset-2">
-            AutoGPT.js
+            NectarGPT+
           </span>
         </a>
         <div className="flex flex-1 justify-end">
@@ -40,9 +40,9 @@ export function Header() {
                 <XMarkIcon className="h-6 w-6" aria-hidden="true" />
               </button>
             </div>
-            <a href="#" className="-m-1.5 p-1.5">
+            <a href="https://chat.nectarhub.xyz/" className="-m-1.5 p-1.5">
               <span className="h-8 w-auto text-xl font-semibold underline underline-offset-2">
-                AutoGPT.js
+                NectarGPT+
               </span>
             </a>
             <div className="flex flex-1 justify-end">

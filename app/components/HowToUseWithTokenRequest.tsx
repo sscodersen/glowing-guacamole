@@ -20,7 +20,7 @@ export function HowToUseWithTokenRequest() {
     <div className="bg-white shadow sm:rounded-lg">
       <div className="px-4 py-5 sm:p-6">
         <h3 className="text-base font-semibold leading-6 text-gray-900">
-          Autonomous AI
+          Nectar Autonomous AI
         </h3>
         <div className="mt-2 max-w-xl text-sm text-gray-500">
           <p>
@@ -38,7 +38,7 @@ export function HowToUseWithTokenRequest() {
         </h3>
         <div className="mt-2 max-w-xl text-sm text-gray-500">
           <p>
-            AutoGPT uses OpenAI GPT directly from browser. The token is required
+          NectarGPT uses OpenAI GPT directly from browser. The token is required
             to call those APIs and is only stored on your browser. You can go to{" "}
             <a
               href="https://platform.openai.com/account/api-keys"
@@ -70,7 +70,7 @@ export function HowToUseWithTokenRequest() {
             className="mt-3 inline-flex w-full items-center justify-center rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:ml-3 sm:mt-0 sm:w-auto"
             onClick={onSaveClicked}
           >
-            Start
+            Harvest
           </button>
         </form>
       </div>

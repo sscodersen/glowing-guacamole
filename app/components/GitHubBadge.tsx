@@ -1,6 +1,6 @@
 export function GitHubBadge() {
   return (
-    <a href="https://github.com/zabirauf/AutoGPT.js" target="_blank">
+    <a href="https://github.com/socialtribexyz/nectarGPT" target="_blank">
       <svg width="34" height="34" xmlns="http://www.w3.org/2000/svg">
       <g transform="scale(0.35)">
         <path
